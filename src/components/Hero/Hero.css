@@ -1,0 +1,12 @@
+.hero {
+	min-height: 500px;
+	background-color: var(--main-color);
+}
+
+.hero-inner-container {
+	min-height: 700px;
+}
+
+.hero-caption {
+	letter-spacing: 0.2px;
+}
